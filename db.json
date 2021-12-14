@@ -1,9 +1,5 @@
-// index.js
-module.exports = (req, res, next) => {
-    console.log(req, res, next)
-    
-    const data = {
-      "manufacturers_search":[
+{   
+    "manufacturers_search":[
         "Gerlach-Brakus",
         "Streich and Sons",
         "Hilpert-Hartmann",
@@ -23,34 +19,34 @@ module.exports = (req, res, next) => {
         "BD123",
         "CD365"
     ],
-    manufacturers: [
-        { "id": 11, "name": "Gerlach-Brakus", },
-        { "id": 12, "name": "Streich and Sons", },
-        { "id": 13, "name": "Hilpert-Hartmann", },
-        { "id": 14, "name": "Gaylord Group", },
-        { "id": 15, "name": "Little Inc", },
-        { "id": 16, "name": "Stoltenberg-Ratke", },
-        { "id": 17, "name": "Davis-Luettgen", },
-        { "id": 18, "name": "Pfeffer, Zemlak and Hilpert", },
-        { "id": 19, "name": "Treutel, Lebsack and Homenick", },
-        { "id": 111, "name": "Prohaska and Sons", },
-        { "id": 122, "name": "Keeling Inc", },
-        { "id": 133, "name": "O'Kon-Kautzer", },
-        { "id": 144, "name": "Hyatt-Hessel", },
-        { "id": 155, "name": "Tromp-Stiedemann", },
-        { "id": 166, "name": "Schowalter-Mertz", },
-        { "id": 177, "name": "Beier-Kertzmann", },
-        { "id": 188, "name": "Kiehn-Pouros", },
-        { "id": 199, "name": "Adams, Brakus and Watsica", },
-        { "id": 123, "name": "Swift-Maggio", },
-        { "id": 145, "name": "Orn-Lueilwitz", },
-        { "id": 167, "name": "Durgan-Parker", },
-        { "id": 178, "name": "Wuckert, Feeney and Okuneva", },
-        { "id": 189, "name": "Quitzon, Torp and Turner", },
-        { "id": 110, "name": "Koelpin, Thiel and MacGyver", },
-        { "id": 112, "name": "Kuhlman, Moen and Daugherty", },
-      ],
-    assets:[
+    "manufacturers": [
+        { "id": 11, "name": "Gerlach-Brakus" },
+        { "id": 12, "name": "Streich and Sons" },
+        { "id": 13, "name": "Hilpert-Hartmann" },
+        { "id": 14, "name": "Gaylord Group" },
+        { "id": 15, "name": "Little Inc" },
+        { "id": 16, "name": "Stoltenberg-Ratke" },
+        { "id": 17, "name": "Davis-Luettgen" },
+        { "id": 18, "name": "Pfeffer, Zemlak and Hilpert" },
+        { "id": 19, "name": "Treutel, Lebsack and Homenick" },
+        { "id": 111, "name": "Prohaska and Sons" },
+        { "id": 122, "name": "Keeling Inc" },
+        { "id": 133, "name": "O'Kon-Kautzer" },
+        { "id": 144, "name": "Hyatt-Hessel" },
+        { "id": 155, "name": "Tromp-Stiedemann" },
+        { "id": 166, "name": "Schowalter-Mertz" },
+        { "id": 177, "name": "Beier-Kertzmann" },
+        { "id": 188, "name": "Kiehn-Pouros" },
+        { "id": 199, "name": "Adams, Brakus and Watsica" },
+        { "id": 123, "name": "Swift-Maggio" },
+        { "id": 145, "name": "Orn-Lueilwitz" },
+        { "id": 167, "name": "Durgan-Parker" },
+        { "id": 178, "name": "Wuckert, Feeney and Okuneva" },
+        { "id": 189, "name": "Quitzon, Torp and Turner" },
+        { "id": 110, "name": "Koelpin, Thiel and MacGyver" },
+        { "id": 112, "name": "Kuhlman, Moen and Daugherty" }
+    ],
+    "assets":[
         { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
         { "assetId":2,"asset_type_id":340,"name":"AV Tower"},
         { "assetId":3,"asset_type_id":339,"name":"TV / Television"},
@@ -60,9 +56,9 @@ module.exports = (req, res, next) => {
         { "assetId":7,"asset_type_id":3,"name":"Mixers"},
         { "assetId":8,"asset_type_id":4105,"name":"Walls"},
         { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
-        { "assetId":10,"asset_type_id":4,"name":"Ceiling"},
-       ],
-    asset_types: [
+        { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+    ],
+    "asset_types": [
         {"id":343,"name":"AV & Electronics - Audio, Speakers"},
         {"id":340,"name":"AV & Electronics - AV Tower"},
         {"id":339,"name":"AV & Electronics - TV / Television"},
@@ -128,7 +124,7 @@ module.exports = (req, res, next) => {
         {"id":524,"name":"Window Blinds / Shades"},
         {"id":56,"name":"Windows / Storefront"}
     ],
-    asset_types_quantity: [
+    "asset_types_quantity": [
         {"id":343,"value":"AV & Electronics - Audio, Speakers", "label": "AV & Electronics - Audio, Speakers"},
         {"id":340,"value":"AV & Electronics - AV Tower", "label": "AV & Electronics - AV Tower"},
         {"id":339,"value":"AV & Electronics - TV / Television", "label": "AV & Electronics - TV / Television"},
@@ -194,7 +190,7 @@ module.exports = (req, res, next) => {
         {"id":524,"value":"Window Blinds / Shades", "label": "Window Blinds / Shades"},
         {"id":56,"value":"Windows / Storefront", "label" : "Windows / Storefront"}
     ],
-    partnumbers: [], 
+    "partnumbers": [], 
     "quantities":[
         {
             "id": 1,
@@ -227,12 +223,12 @@ module.exports = (req, res, next) => {
     ],
     "notes": [
         {
-            id:"1",
-            date:"11/25/2021",
-            userName:"Jhon Connor",
-            jobTitle:"Manager",
-            email:"jconor@t2000.com",
-            note: "200 of New stock has been added. Lot 123"
+            "id":"1",
+            "date":"11/25/2021",
+            "userName":"Jhon Connor",
+            "jobTitle":"Manager",
+            "email":"jconor@t2000.com",
+            "note": "200 of New stock has been added. Lot 123"
         }
     ],
     "service_providers":[
@@ -807,46 +803,46 @@ module.exports = (req, res, next) => {
             "description": "lorem ipsum dor amet"
         }
     ],
-    history:
+    "history":
       [
         {
-            id:"1",
-            date:"11/25/2021",
-            userName:"Jhon Connor",
-            jobTitle:"Manager",
-            email:"jconor@t2000.com",
-            action: {type:"Addition", description:"200 of New stock has been added. Lot 123"}
+            "id":"1",
+            "date":"11/25/2021",
+            "userName":"Jhon Connor",
+            "jobTitle":"Manager",
+            "email":"jconor@t2000.com",
+            "action": {"type":"Addition", "description":"200 of New stock has been added. Lot 123"}
         },
         {
-            id:"2",
-            date:"11/29/2021",
-            userName:"Bruce Wayne",
-            jobTitle:"Manager",
-            email:"bwayne@gotica.com",
-            action: {type:"Depletion", description:"Show Original Row (New) and New Row (old)"},
+            "id":"2",
+            "date":"11/29/2021",
+            "userName":"Bruce Wayne",
+            "jobTitle":"Manager",
+            "email":"bwayne@gotica.com",
+            "action": {"type":"Depletion", "description":"Show Original Row (New) and New Row (old)"}
         },
         {
-            id:"3",
-            date:"11/25/2021",
-            userName:"Peter Parker",
-            jobTitle:"Admin",
-            email:"parker@spider.com",
-            action: {type:"Change", description:"Show Original Row (New) and New Row (old)"},
+            "id":"3",
+            "date":"11/25/2021",
+            "userName":"Peter Parker",
+            "jobTitle":"Admin",
+            "email":"parker@spider.com",
+            "action": {"type":"Change", "description":"Show Original Row (New) and New Row (old)"}
         },
         {   
-            id:"4",
-            date:"11/25/2021",
-            userName:"Otto Gunther Octavius",
-            jobTitle:"Doc",
-            email:"droctopus@ock.com",
-            action: {type:"Allocation", description:"215 has been allocated to LINK TO WO"},
-        },
+            "id":"4",
+            "date":"11/25/2021",
+            "userName":"Otto Gunther Octavius",
+            "jobTitle":"Doc",
+            "email":"droctopus@ock.com",
+            "action": {"type":"Allocation", "description":"215 has been allocated to LINK TO WO"}
+        }
     ],
     "attachments":[
-        {"id":1,"document":"http://dummyimage.com/100x100.png/9e9e9e/ffffff", "createdBy": {userName:"Jhon Connor",jobTitle:"Manager",email:"jconor@t2000.com",},"createdAt":"8/12/2021"},
-        {"id":1,"document":"http://dummyimage.com/100x100.png/47ada8/ffffff", "createdBy": {userName:"Bruce Wayne",jobTitle:"Manager",email:"bwayne@gotica.com",},"createdAt":"7/12/2021"},
-        {"id":1,"document":"http://dummyimage.com/100x100.png/ab4871/ffffff", "createdBy": {userName:"Peter Parker",jobTitle:"Admin",email:"parker@spider.com",},"createdAt":"6/11/2021"},
-        {"id":1,"document":"http://dummyimage.com/100x100.png/4aab53/ffffff", "createdBy": {userName:"Otto Gunther Octavius",jobTitle:"Doc",email:"droctopus@ock.com",},"createdAt":"4/10/2021"}
+        {"id":1,"document":"http://dummyimage.com/100x100.png/9e9e9e/ffffff", "createdBy": {"userName":"Jhon Connor","jobTitle":"Manager","email":"jconor@t2000.com"},"createdAt":"8/12/2021"},
+        {"id":1,"document":"http://dummyimage.com/100x100.png/47ada8/ffffff", "createdBy": {"userName":"Bruce Wayne","jobTitle":"Manager","email":"bwayne@gotica.com"},"createdAt":"7/12/2021"},
+        {"id":1,"document":"http://dummyimage.com/100x100.png/ab4871/ffffff", "createdBy": {"userName":"Peter Parker","jobTitle":"Admin","email":"parker@spider.com"},"createdAt":"6/11/2021"},
+        {"id":1,"document":"http://dummyimage.com/100x100.png/4aab53/ffffff", "createdBy": {"userName":"Otto Gunther Octavius","jobTitle":"Doc","email":"droctopus@ock.com"},"createdAt":"4/10/2021"}
 
     ],
     "document_types":[
@@ -856,18 +852,4 @@ module.exports = (req, res, next) => {
         {"id":4,"name":"Doc Type 4"},
         {"id":5,"name":"Doc Type 5"}
     ]
-
-   }
-  
-    // Create 1000 records
-    for (let i = 0; i < 1000; i++) {
-      if (i < 50) {
-  
-      data.partnumbers.push({
-        "id": i,
-        "name": `Part Number : ${Math.floor(Math.random() * 1000000)}`
-      })
-    }}
-  
-    return data
-  }
+}
