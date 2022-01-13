@@ -235,8 +235,17 @@
         {
             "id":1,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Hersha Hospitality Trust",
-            "manufacturerName":"Gerlach-Brakus",
+            "name":"Hersha Hospitality Trust",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 12, "name": "Streich and Sons" }
+            ],
             "manufacturerPartName":"Consumer Services",
             "manufacturerPartNumber":"BD123",
             "customerPartNumber": "6354112",
@@ -247,15 +256,23 @@
             "price":3570.85,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "090099XC",
+            "internalPartNumber": "090099XC",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"            
         },
         {
             "id":2,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"Check-Cap Ltd.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Check-Cap Ltd.",
+            "assets":[
+                { "assetId":2,"asset_type_id":340,"name":"AV Tower"}
+            ],
+            "assetTypes": [
+                {"id":340,"name":"AV & Electronics - AV Tower"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Health Care",
             "manufacturerPartNumber":"BD123",
             "customerPartNumber": "6354112",
@@ -266,15 +283,23 @@
             "price":2951.43,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":3,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Lifetime Brands, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Lifetime Brands, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"BD123",
             "customerPartNumber": "6354112",
@@ -285,15 +310,25 @@
             "price":3287.16,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "P993XL",
+            "internalPartNumber": "P993XL",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":4,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Global Indemnity Limited",
-            "manufacturerName":"Streich and Sons",
+            "name":"Global Indemnity Limited",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":2,"asset_type_id":340,"name":"AV Tower"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":340,"name":"AV & Electronics - AV Tower"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"BD123",
             "customerPartNumber": "6354112",
@@ -304,15 +339,23 @@
             "price":3266.12,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":5,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Prudential Financial, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Prudential Financial, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"BD123",
             "customerPartNumber": "6354112",
@@ -323,15 +366,23 @@
             "price":2185.02,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":6,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Markel Corporation",
-            "manufacturerName":"Streich and Sons",
+            "name":"Markel Corporation",
+            "assets":[
+                { "assetId":3,"asset_type_id":339,"name":"TV / Television"}
+            ],
+            "assetTypes": [
+                {"id":339,"name":"AV & Electronics - TV / Television"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "6354112",
@@ -342,15 +393,23 @@
             "price":2776.46,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":7,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Fogo de Chao, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Fogo de Chao, Inc.",
+            "assets":[
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Consumer Services",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "6354112",
@@ -361,15 +420,23 @@
             "price":4164.19,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":8,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Bridge Bancorp, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Bridge Bancorp, Inc.",
+            "assets":[
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "6354112",
@@ -380,15 +447,23 @@
             "price":3707.85,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":9,
             "image":"http://dummyimage.com/100x100.png/ff4444/ffffff",
-            "partName":"W.R. Berkley Corporation",
-            "manufacturerName":"Gaylord Group",
+            "name":"W.R. Berkley Corporation",
+            "assets":[
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"}
+            ],
+            "assetTypes": [
+                {"id":287,"name":"CCTV Security Camera System"}
+            ],
+            "manufacturers":[
+                { "id": 14, "name": "Gaylord Group"}
+            ],
             "manufacturerPartName":"n/a",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "6354112",
@@ -399,15 +474,23 @@
             "price":1686.54,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":10,
             "image":"http://dummyimage.com/100x100.png/ff4444/ffffff",
-            "partName":"Check-Cap Ltd. #2",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"Check-Cap Ltd. #2",
+            "assets":[
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"Health Care",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "6354112",
@@ -418,15 +501,23 @@
             "price":1189.35,            
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":11,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"E.I. du Pont de Nemours and Company",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"E.I. du Pont de Nemours and Company",
+            "assets":[
+                { "assetId":6,"asset_type_id":523,"name":"Nitrogen Generator"}
+            ],
+            "assetTypes": [
+                {"id":523,"name":"Beer Blast - Nitrogen Generator"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "985314",
@@ -437,15 +528,23 @@
             "price":693.32,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":12,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Bridge Bancorp, Inc.",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"Bridge Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"Energy",
             "manufacturerPartNumber":"CD365",
             "customerPartNumber": "985314",
@@ -456,15 +555,23 @@
             "price":4893.01,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":13,
             "image":"http://dummyimage.com/100x100.png/ff4444/ffffff",
-            "partName":"Murphy Oil Corporation",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"Murphy Oil Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"Energy",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "985314",
@@ -475,15 +582,23 @@
             "price":3416.55,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":14,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"Dividend and Income Fund",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"Dividend and Income Fund",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"n/a",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "985314",
@@ -494,15 +609,27 @@
             "price":2401.46,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":15,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"PPG Industries, Inc.",
-            "manufacturerName":"Hilpert-Hartmann",
+            "name":"PPG Industries, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 13, "name": "Hilpert-Hartmann"}
+            ],
             "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "88552121",
@@ -513,15 +640,28 @@
             "price":3046.45,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":16,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"Bridge Bancorp, Inc.",
-            "manufacturerName":"Gerlach-Brakus",
+            "name":"Bridge Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 12, "name": "Streich and Sons" }
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "88552121",
@@ -532,15 +672,27 @@
             "price":4944.71,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":17,
             "image":"http://dummyimage.com/100x100.png/ff4444/ffffff",
-            "partName":"magicJack VocalTec Ltd",
-            "manufacturerName":"Kiehn-Pouros",
+            "name":"magicJack VocalTec Ltd",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 188, "name": "Kiehn-Pouros"}
+            ],
             "manufacturerPartName":"Public Utilities",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "984521987",
@@ -551,15 +703,28 @@
             "price":4129.30,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":18,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Washington Trust Bancorp, Inc.",
-            "manufacturerName":"Adams, Brakus and Watsica",
+            "name":"Washington Trust Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 110, "name": "Koelpin, Thiel and MacGyver" },
+                { "id": 112, "name": "Kuhlman, Moen and Daugherty" }
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "984521987",
@@ -570,15 +735,28 @@
             "price":4926.37,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"  
         },
         {
             "id":19,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"The Carlyle Group L.P.",
-            "manufacturerName":"Gerlach-Brakus",
+            "name":"The Carlyle Group L.P.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 12, "name": "Streich and Sons" }
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "984521987",
@@ -589,15 +767,28 @@
             "price":136.21,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
-"description": "lorem ipsum dor amet"
+            "description": "lorem ipsum dor amet"
         },
         {
             "id":20,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Nationstar Mortgage Holdings Inc.",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"Nationstar Mortgage Holdings Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 123, "name": "Swift-Maggio" },
+                { "id": 145, "name": "Orn-Lueilwitz" }
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"ZX-8899",
             "customerPartNumber": "984521987",
@@ -608,15 +799,28 @@
             "price":922.30,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
-"description": "lorem ipsum dor amet"
+            "description": "lorem ipsum dor amet"
         },
         {
             "id":21,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Team, Inc.",
-            "manufacturerName":"Gerlach-Brakus",
+            "name":"Team, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 12, "name": "Streich and Sons" }
+            ],
             "manufacturerPartName":"Consumer Services",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "984521987",
@@ -627,15 +831,28 @@
             "price":2103.01,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
-"description": "lorem ipsum dor amet"
+            "description": "lorem ipsum dor amet"
         },
         {
             "id":22,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"DSW Inc.",
-            "manufacturerName":"Gerlach-Brakus",
+            "name":"DSW Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 12, "name": "Streich and Sons" }
+            ],
             "manufacturerPartName":"Consumer Services",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -646,15 +863,27 @@
             "price":1205.26,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
-"description": "lorem ipsum dor amet"
+            "description": "lorem ipsum dor amet"
         },
         {
             "id":23,
             "image":"http://dummyimage.com/100x100.png/ff4444/ffffff",
-            "partName":"Harsco Corporation",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"Harsco Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 112, "name": "Kuhlman, Moen and Daugherty" }
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -665,15 +894,28 @@
             "price":3576.68,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":24,
             "image":"http://dummyimage.com/100x100.png/dddddd/000000",
-            "partName":"Sound Financial Bancorp, Inc.",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"Sound Financial Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 123, "name": "Swift-Maggio" },
+                { "id": 112, "name": "Kuhlman, Moen and Daugherty" }
+            ],
             "manufacturerPartName":"Finance",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -684,15 +926,27 @@
             "price":136.65,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":25,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"TriMas Corporation",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"TriMas Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 178, "name": "Wuckert, Feeney and Okuneva"}
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -703,15 +957,27 @@
             "price":2049.09,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":26,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"TriMas Corporation",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"TriMas Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 145, "name": "Orn-Lueilwitz" }
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -722,15 +988,27 @@
             "price":2049.09,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KXL0099",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":27,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"TriMas Corporation",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"TriMas Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 110, "name": "Koelpin, Thiel and MacGyver" }
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -741,15 +1019,27 @@
             "price":2049.09,
             "systemId": 1098823,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":28,
             "image":"http://dummyimage.com/100x100.png/5fa2dd/ffffff",
-            "partName":"TriMas Corporation",
-            "manufacturerName":"Orn-Lueilwitz",
+            "name":"TriMas Corporation",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 177, "name": "Beier-Kertzmann" }
+            ],
             "manufacturerPartName":"Capital Goods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -760,15 +1050,27 @@
             "price":2049.09,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":29,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Bridge Bancorp, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Bridge Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -779,15 +1081,27 @@
             "price":3707.85,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "092340XC",
+            "internalPartNumber": "092340XC",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         },
         {
             "id":30,
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
-            "partName":"Bridge Bancorp, Inc.",
-            "manufacturerName":"Streich and Sons",
+            "name":"Bridge Bancorp, Inc.",
+            "assets":[
+                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"},
+                { "assetId":10,"asset_type_id":4,"name":"Ceiling"}
+            ],
+            "assetTypes": [
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
+            ],
+            "manufacturers":[
+                { "id": 12, "name": "Streich and Sons"}
+            ],
             "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
@@ -798,11 +1112,12 @@
             "price":3707.85,
             "systemId": 918237,
             "assetLink": "#",
-            "internalPartID": "657609DB",
+            "internalPartNumber": "657609DB",
             "lotNumber": "KM9009",
             "description": "lorem ipsum dor amet"
         }
     ],
+
     "history":
       [
         {
