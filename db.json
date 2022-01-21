@@ -8,11 +8,10 @@
     ],
     "asset_types_search":[
         "Finance",
-        "AV & Electronics - Audio, Speakers,CCTV Security Camera System,Ceiling",
+        "Technology",
         "Health Care",
         "Public Utilities",
-        "Capital Goods",
-        "Gaylord Group"
+        "Capital Goods"
     ],
     "part_numbers_search":[
         "6565XWY",
@@ -954,7 +953,7 @@
             "partGroup":4468,
             "partSupplier":"Flipbug",
             "qtyOnhand":288,
-            "assetType":"AV & Electronics - Audio, Speakers,CCTV Security Camera System,Ceiling",
+            "assetType":"Technology",
             "price":2049.09,
             "systemId": 918237,
             "assetLink": "#",
