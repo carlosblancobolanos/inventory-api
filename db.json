@@ -1,6 +1,6 @@
 {   
     "manufacturers_search":[
-        "Gerlach-Brakus",
+        "Capital Goods",
         "Streich and Sons",
         "Hilpert-Hartmann",
         "Gaylord Group",
@@ -1009,7 +1009,7 @@
             "manufacturers":[
                 { "id": 110, "name": "Koelpin, Thiel and MacGyver" }
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
@@ -1040,7 +1040,7 @@
             "manufacturers":[
                 { "id": 177, "name": "Beier-Kertzmann" }
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Basic Industries",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
