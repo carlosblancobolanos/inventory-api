@@ -1007,7 +1007,7 @@
             "manufacturers":[
                 { "id": 178, "name": "Wuckert, Feeney and Okuneva"}
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Technology",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
@@ -1038,7 +1038,7 @@
             "manufacturers":[
                 { "id": 145, "name": "Orn-Lueilwitz" }
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Foods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
