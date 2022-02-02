@@ -190,7 +190,24 @@
         {"id":524,"value":"Window Blinds / Shades", "label": "Window Blinds / Shades"},
         {"id":56,"value":"Windows / Storefront", "label" : "Windows / Storefront"}
     ],
-    "partnumbers": [], 
+    "partnumbers": [],
+    "allocatetowo":[
+        {
+            "itemId":1,
+            "ableToAllocate":true,
+            "status":"open"
+        },
+        {
+            "itemId":2,
+            "ableToAllocate":false,
+            "status":"cancelled"
+        },
+        {
+            "itemId":3,
+            "ableToAllocate":false,
+            "status":"closed"
+        }
+    ],
     "quantities":[
         {
             "id": 1,
