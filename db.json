@@ -3026,15 +3026,6 @@
             "Trade Type": "Grease Collection",
             "WO Count": "0",
             "Customer Count": "0"
-        },
-        {
-            "id": "199",
-            "user_id": "633",
-            "company_name": "Otto by Products Inc",
-            "service_area": "Huron County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
         }
     ]    
 }
