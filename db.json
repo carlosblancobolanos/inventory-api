@@ -1,6 +1,6 @@
 {   
     "manufacturers_search":[
-        "Gerlach-Brakus",
+        "Capital Goods",
         "Streich and Sons",
         "Hilpert-Hartmann",
         "Gaylord Group",
@@ -190,7 +190,24 @@
         {"id":524,"value":"Window Blinds / Shades", "label": "Window Blinds / Shades"},
         {"id":56,"value":"Windows / Storefront", "label" : "Windows / Storefront"}
     ],
-    "partnumbers": [], 
+    "partnumbers": [],
+    "allocatetowo":[
+        {
+            "itemId":1,
+            "ableToAllocate":true,
+            "status":"open"
+        },
+        {
+            "itemId":2,
+            "ableToAllocate":false,
+            "status":"cancelled"
+        },
+        {
+            "itemId":3,
+            "ableToAllocate":false,
+            "status":"closed"
+        }
+    ],
     "quantities":[
         {
             "id": 1,
@@ -224,11 +241,63 @@
     "notes": [
         {
             "id":"1",
-            "date":"11/25/2021",
-            "userName":"Jhon Connor",
-            "jobTitle":"Manager",
+            "date":"2022-01-13T16:25",
+            "userName":"Test User Name 1",
+            "company":{
+                "name":"Test Customer Company",
+                "isServiceProvider":false
+            },            
             "email":"jconor@t2000.com",
-            "note": "200 of New stock has been added. Lot 123"
+            "note": "Description Text goes here. Description Text goes here. Description Text goes here. Description Text goes here. Description Text goes Description Text goes here. Description Text goes here.",
+            "isImportant":true,
+            "isFromCurrentUser":true,
+            "tags":[],
+            "inventoryId":1
+        },
+        {
+            "id":"2",
+            "date":"2022-01-21T16:25",
+            "userName":"Test User Name 2",
+            "company":{
+                "name":"Test Service Provider",
+                "isServiceProvider":true
+            },            
+            "email":"jconor@t2000.com",
+            "note": "Description Text goes here. Description Text goes here. Description Text goes here. ",
+            "isImportant":true,
+            "isFromCurrentUser":false,
+            "tags":[],
+            "inventoryId":1
+        },
+        {
+            "id":"3",            
+            "date":"2022-01-28T07:00",
+            "userName":"Test User Name 3",
+            "company":{
+                "name":"Test Customer Company",
+                "isServiceProvider": false
+            },            
+            "email":"jconor@t2000.com",
+            "note": "Description Text goes here.",
+            "isImportant":true,
+            "isFromCurrentUser":false,
+            "tags":[],
+            "inventoryId":1
+        },
+        {
+            "id":"4",
+            "date":"2022-01-28T09:33",
+            "userName":"Test User Name 4",
+            "company":{
+                "name":"Test Customer Company",
+                "isServiceProvider": false
+            },            
+            "email":"jconor@t2000.com",
+            "note": "Description Text goes here.",
+            "isImportant":false,
+            "isFromCurrentUser":false,
+            "tags":[],
+            "inventoryId":1
         }
     ],
     "service_providers":[
@@ -237,13 +306,21 @@
             "image":"http://dummyimage.com/100x100.png/cc0000/ffffff",
             "name":"Hersha Hospitality Trust",
             "assets":[
-                { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"}
+                 { "assetId":1,"asset_type_id":343,"name":"Audio, Speakers"},
+                { "assetId":2,"asset_type_id":340,"name":"AV Tower"},
+                 { "assetId":3,"asset_type_id":339,"name":"TV / Television"},
+                 { "assetId":10,"asset_type_id":4,"name":"Ceiling"},
+                 { "assetId":9,"asset_type_id":287,"name":"CCTV Security Camera System"}
             ],
             "assetTypes": [
-                {"id":343,"name":"AV & Electronics - Audio, Speakers"}
+                {"id":343,"name":"AV & Electronics - Audio, Speakers"},
+                {"id":340,"name":"AV & Electronics - AV Tower"},
+                {"id":339,"name":"AV & Electronics - TV / Television"},
+                {"id":287,"name":"CCTV Security Camera System"},
+                {"id":4,"name":"Ceiling"}
             ],
             "manufacturers":[
-                { "id": 11, "name": "Gerlach-Brakus" },
+                { "id": 11, "name": "Gerlach-Brakus"},
                 { "id": 12, "name": "Streich and Sons" }
             ],
             "manufacturerPartName":"Consumer Services",
@@ -258,7 +335,7 @@
             "assetLink": "#",
             "internalPartNumber": "090099XC",
             "lotNumber": "KM9009",
-            "description": "lorem ipsum dor amet"            
+            "description": "lorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor ametlorem ipsum dor amet"            
         },
         {
             "id":2,
@@ -947,7 +1024,7 @@
             "manufacturers":[
                 { "id": 178, "name": "Wuckert, Feeney and Okuneva"}
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Technology",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
@@ -978,7 +1055,7 @@
             "manufacturers":[
                 { "id": 145, "name": "Orn-Lueilwitz" }
             ],
-            "manufacturerPartName":"Capital Goods",
+            "manufacturerPartName":"Foods",
             "manufacturerPartNumber":"6565XWY",
             "customerPartNumber": "32651554",
             "partGroup":4468,
@@ -1015,7 +1092,7 @@
             "partGroup":4468,
             "partSupplier":"Flipbug",
             "qtyOnhand":288,
-            "assetType":"Finance",
+            "assetType":"Cleaning",
             "price":2049.09,
             "systemId": 1098823,
             "assetLink": "#",
