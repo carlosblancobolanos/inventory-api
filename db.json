@@ -1250,1782 +1250,1782 @@
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Mohave,Arizona",
-            "Trade Type": "HVAC",
-            "WO Count": "2642",
-            "Customer Count": "35"
+            "trade_type": "HVAC",
+            "wo_count": "2642",
+            "customer_count": "35"
         },
         {
             "id": "2",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Mohave,Arizona",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "3",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Orange,California",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "4",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92807,Anaheim",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "5",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Clark County ,NV",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "6",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Orange County ,CA",
-            "Trade Type": "Upholstery Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Upholstery Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "7",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Orange County ,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "8",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Nashville,TN",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "9",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Nashville,TN",
-            "Trade Type": "Hood Cleaners",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Hood Cleaners",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "10",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Nashville,TN",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "11",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Nashville,TN",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "12",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Nashville,TN",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "13",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "14",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92806,Anaheim,CA",
-            "Trade Type": "Landscaper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Landscaper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "15",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92806,Anaheim,CA",
-            "Trade Type": "Audio / Visual Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Audio / Visual Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "16",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92806,Anaheim,CA",
-            "Trade Type": "Coffee - Tea",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Coffee - Tea",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "17",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92806,Anaheim,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "18",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "89105,Las Vegas,NV",
-            "Trade Type": "Audio / Visual Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Audio / Visual Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "19",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "92806,Anaheim,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "20",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "37214,Nashville,TN",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "21",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "22",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment-Fryers",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment-Fryers",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "23",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment - Microwaves",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Microwaves",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "24",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment - Ovens",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Ovens",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "25",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "26",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "27",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Davidson County ,TN",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "28",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Menifee,CA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "29",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Menifee,AR",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "30",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Menifee,AR",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "31",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Sun City,CA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "32",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Sun City,CA",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "33",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "34",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Dishmachine Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Dishmachine Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "35",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "36",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "IT Services",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "IT Services",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "37",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Texas",
-            "Trade Type": "Cooking Equipment-Fryers",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment-Fryers",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "38",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Texas",
-            "Trade Type": "Cooking Equipment - Ovens",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Ovens",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "39",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Texas",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "40",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Texas",
-            "Trade Type": "Refrigeration - Ice Machine",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration - Ice Machine",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "41",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Texas",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "42",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "California",
-            "Trade Type": "Door Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Door Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "43",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Orange County ,NY",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "44",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "45",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "46",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "47",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "48",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment-Fryers",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment-Fryers",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "49",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment - Microwaves",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Microwaves",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "50",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment - Ovens",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Ovens",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "51",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "52",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Electrician",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Electrician",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "53",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Flooring Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Flooring Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "54",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "55",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "56",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Hood Cleaners",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Hood Cleaners",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "57",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "58",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "59",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "60",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Refrigeration - Ice Machine",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration - Ice Machine",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "61",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "62",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Upholstery Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Upholstery Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "63",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "64",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Cooking Equipment- Slicers",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment- Slicers",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "65",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "66",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "67",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Soda Dispenser",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Soda Dispenser",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "68",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "69",
             "user_id": "18",
             "company_name": "Bubba's Plumbing - Flush Beats a full house",
             "service_area": "Florida",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "70",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "651",
-            "Customer Count": "186"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "651",
+            "customer_count": "186"
         },
         {
             "id": "71",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "92274,Thermal,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "72",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "73",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90063,Los Angeles,CA",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "74",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "75",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "California",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "76",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "California",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "77",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "California",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "78",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "California",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "79",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Los Angeles County ,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "80",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90003,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "81",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90003,Los Angeles,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "82",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90003,Los Angeles,CA",
-            "Trade Type": "Refrigeration - Ice Machine",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration - Ice Machine",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "83",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90003,Los Angeles,CA",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "84",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "85",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Dishmachine Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Dishmachine Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "86",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Electrician",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Electrician",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "87",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "HVAC",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "HVAC",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "88",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Refrigeration - Ice Machine",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration - Ice Machine",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "89",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "90",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "91",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "92",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Chemical Dispensing",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Chemical Dispensing",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "93",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "00929,San Juan,PR",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "94",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "00929,San Juan,PR",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "95",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "91755,Monterey Park,CA",
-            "Trade Type": "Chemical Dispensing",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Chemical Dispensing",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "96",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90007,Los Angeles,CA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "97",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Chicago Heights,Cook,IL",
-            "Trade Type": "Air Compressor Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Air Compressor Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "98",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "70072,Marrero,LA",
-            "Trade Type": "Air Compressor Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Air Compressor Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "99",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "70072,Marrero,LA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "100",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "80443,Frisco,CO",
-            "Trade Type": "Air Compressor Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Air Compressor Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "101",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "80443,Frisco,CO",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "102",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MI",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "103",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MI",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "104",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MI",
-            "Trade Type": "Door Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Door Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "105",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MN",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "106",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MN",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "107",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Jackson,Jackson,MN",
-            "Trade Type": "Door Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Door Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "108",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "70001,Metairie,LA",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "109",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "70001,Metairie,LA",
-            "Trade Type": "Door Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Door Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "110",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "80012,Aurora,CO",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "111",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Air Compressor Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Air Compressor Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "112",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Awning Company",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Awning Company",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "113",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "114",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Cooking Equipment-Fryers",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment-Fryers",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "115",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Cooking Equipment - Ovens",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Ovens",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "116",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "79009,Bovina,TX",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "117",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "79007,Borger,TX",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "118",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Bellevue,AB",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "119",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90001,Los Angeles,CA",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "120",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "121",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Audio / Visual Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Audio / Visual Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "122",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "123",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90009,Los Angeles,CA",
-            "Trade Type": "Coffee - Tea",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Coffee - Tea",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "124",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Audio / Visual Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Audio / Visual Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "125",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Electrician",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Electrician",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "126",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Cooking Equipment - Microwaves",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment - Microwaves",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "127",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "128",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "129",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Refrigeration",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "130",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "95060,Santa Cruz,CA",
-            "Trade Type": "Handyman",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Handyman",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "131",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "Cook County ,IL",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "132",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Electrician",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Electrician",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "133",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "73036,El Reno,OK",
-            "Trade Type": "Electrician",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Electrician",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "134",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "50008,Allerton,IA",
-            "Trade Type": "Alarm Repair Service",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Alarm Repair Service",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "135",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "60067,Palatine,IL",
-            "Trade Type": "Cooking Equipment",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Cooking Equipment",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "136",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "137",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "90002,Los Angeles,CA",
-            "Trade Type": "Air Compressor Repair",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Air Compressor Repair",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "138",
             "user_id": "610",
             "company_name": "Xipetech test company",
             "service_area": "80005,Arvada,CO",
-            "Trade Type": "Beverage Repairs",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Beverage Repairs",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "139",
             "user_id": "620",
             "company_name": "Bennett's Cooking Repair",
             "service_area": "California",
-            "Trade Type": "Refrigeration",
-            "WO Count": "1399",
-            "Customer Count": "157"
+            "trade_type": "Refrigeration",
+            "wo_count": "1399",
+            "customer_count": "157"
         },
         {
             "id": "140",
             "user_id": "620",
             "company_name": "Bennett's Cooking Repair",
             "service_area": "California",
-            "Trade Type": "Refrigeration - Ice Machine",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Refrigeration - Ice Machine",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "141",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Texas",
-            "Trade Type": "IT Services",
-            "WO Count": "2052",
-            "Customer Count": "14"
+            "trade_type": "IT Services",
+            "wo_count": "2052",
+            "customer_count": "14"
         },
         {
             "id": "142",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "New Mexico",
-            "Trade Type": "IT Services",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "IT Services",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "143",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Oklahoma",
-            "Trade Type": "IT Services",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "IT Services",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "144",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Arkansas",
-            "Trade Type": "IT Services",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "IT Services",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "145",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Kansas",
-            "Trade Type": "IT Services",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "IT Services",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "146",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Texas",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "147",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Oklahoma",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "148",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "Arkansas",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "149",
             "user_id": "621",
             "company_name": "Ecotrak",
             "service_area": "New Mexico",
-            "Trade Type": "Misc",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Misc",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "150",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Massachusetts",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "2650",
-            "Customer Count": "92"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "2650",
+            "customer_count": "92"
         },
         {
             "id": "151",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Rhode Island",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "152",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "New Jersey",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "153",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "New York",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "154",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Maine",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "155",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "New Hampshire",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "156",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "North Carolina",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "157",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "South Carolina",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "158",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Vermont",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "159",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Pennsylvania",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "160",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Maryland",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "161",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Delaware",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "162",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Massachusetts",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "163",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Pennsylvania",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "164",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "New Hampshire",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "165",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "New Jersey",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "166",
             "user_id": "628",
             "company_name": "Windriver Environmental",
             "service_area": "Maine",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "167",
             "user_id": "632",
             "company_name": "Dover Grease Trap & Environmental Services, Inc.",
             "service_area": "Michigan",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "1544",
-            "Customer Count": "142"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "1544",
+            "customer_count": "142"
         },
         {
             "id": "168",
             "user_id": "632",
             "company_name": "Dover Grease Trap & Environmental Services, Inc.",
             "service_area": "Michigan",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "169",
             "user_id": "632",
             "company_name": "Dover Grease Trap & Environmental Services, Inc.",
             "service_area": "Ohio",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "170",
             "user_id": "632",
             "company_name": "Dover Grease Trap & Environmental Services, Inc.",
             "service_area": "Ohio",
-            "Trade Type": "Plumber",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Plumber",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "171",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Cuyahoga County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "2889",
-            "Customer Count": "144"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "2889",
+            "customer_count": "144"
         },
         {
             "id": "172",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Cuyahoga County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "173",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Summit County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "174",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Summit County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "175",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Ashtabula County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "176",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Ashtabula County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "177",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Lorain County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "178",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Lorain County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "179",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Lake County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "180",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Lake County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "181",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Geauga County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "182",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Geauga County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "183",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Medina County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "184",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Medina County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "185",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Mahoning County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "186",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Mahoning County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "187",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Stark County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "188",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Stark County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "189",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Trumbull County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "190",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Trumbull County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "191",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Wayne County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "192",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Wayne County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "193",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Portage County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "194",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Portage County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "195",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Columbiana County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "196",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Columbiana County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "197",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Erie County ,OH",
-            "Trade Type": "Grease Trap Pumper",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Trap Pumper",
+            "wo_count": "0",
+            "customer_count": "0"
         },
         {
             "id": "198",
             "user_id": "633",
             "company_name": "Otto by Products Inc",
             "service_area": "Erie County ,OH",
-            "Trade Type": "Grease Collection",
-            "WO Count": "0",
-            "Customer Count": "0"
+            "trade_type": "Grease Collection",
+            "wo_count": "0",
+            "customer_count": "0"
         }
     ]    
 }
